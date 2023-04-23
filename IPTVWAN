@@ -1,0 +1,380 @@
+#EXTM3U url-tvg="http://hqth.me/epg"
+#------------------------VTV------------------------#
+#EXTINF:1 tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.117:10254
+#EXTINF:2 tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.31:10594
+#EXTINF:3 tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.118:10260
+#EXTINF:4 tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.32:10600
+#EXTINF:5 tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.33:10606
+#EXTINF:6 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.119:10266
+#EXTINF:9 tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.202:10996
+#EXTINF:68 tvg-name="VTV8 HD" group-title="VTV" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.34:10612
+#EXTINF:69 tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.35:10618
+#------------------------VTVcab------------------------#
+#EXTINF:37 tvg-name="ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.207:9216
+#EXTINF:194 tvg-name="VTVCab4 - Phim Đặc Sắc" group-title="VTVcab" tvg-logo="https://i.imgur.com/BIy8hdr.jpg",ON Movies (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.190:10924
+#EXTINF:102 tvg-name="VTVCab8 - Bibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",ON BiBi (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.217:11224
+#EXTINF:39 tvg-name="ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.210:9234
+#EXTINF:197 tvg-name="ON Sports News" group-title="VTVcab" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.193:10942
+#EXTINF:99 tvg-name="VTVCab19 - Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 Vie Dramas (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.218:11230
+#EXTINF:97 tvg-name="VTVCab1 - Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVcab1 Vie Giải Trí
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.143:8832
+#EXTINF:98 tvg-name="VTVCab2 - ON Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/6iITUe5.jpg",ON Phim Việt
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.168:8982
+#EXTINF:91 tvg-name="VTVCab7 - Sức khỏe và cuộc sống" group-title="VTVcab" tvg-logo="https://i.imgur.com/bFWgi4j.png",ON O2TV
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.26:8130
+#EXTINF:195 tvg-name="VTVCab9 - Info TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/TuYOsTV.jpg",VTVcab9 Info TV
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.191:10930
+#EXTINF:105 tvg-name="VTVCab10 - ON Cine" group-title="VTVcab" tvg-logo="https://i.imgur.com/13KxydE.jpg",ON Cine
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.205:9204
+#EXTINF:103 tvg-name="VTVCab12 - Style TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/XquBifl.jpg",VTVcab12 Style TV
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.244:9438
+#EXTINF:196 tvg-name="VTVCab15 - M Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/dEzdry4.jpg",ON Music
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.192:10936
+#EXTINF:38 tvg-name="VTVCab16 - ON Football" group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.138:8802
+#EXTINF:104 tvg-name="VTVCab17 - Yeah1 TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVcab17 Yeah1!TV
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.217:9276
+#EXTINF:132 tvg-name="VTVCab20 - V Family" group-title="VTVcab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVcab20 V Family
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.245:10344
+#------------------------VTC------------------------#
+#EXTINF:75 tvg-name="VTC1" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.173:10846
+#EXTINF:83 tvg-name="VTC3" group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.81:8460
+#EXTINF:186 tvg-name="VTC4" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.149:10714
+#EXTINF:187 tvg-name="VTC5" group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.136:10720
+#EXTINF:188 tvg-name="VTC7" group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.151:10726
+#EXTINF:189 tvg-name="VTC9" group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.141:10732
+#EXTINF:116 tvg-name="VTC10" group-title="VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.87:11530
+#EXTINF:78 tvg-name="VTC13" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.74:8418
+#EXTINF:207 tvg-name="VTC14" group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.216:11218
+#EXTINF:206 tvg-name="VTC16" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC16 HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.98:11458
+#EXTINF:90 tvg-name="VOVTV" group-title="VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.46:8256
+#------------------------HTV/HTVC------------------------#
+#EXTINF:93 tvg-name="HTV2" group-title="HTV/HTVC" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel (HD 5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.182:9306
+#EXTINF:94 tvg-name="HTV7" group-title="HTV/HTVC" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.223:9312
+#EXTINF:95 tvg-name="HTV9" group-title="HTV/HTVC" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.224:9318
+#EXTINF:15 tvg-name="HTV Thể Thao" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV Thể Thao (HD 7.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.88:11524
+#EXTINF:77 tvg-name="HTVC Phim" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim (HD 4.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.133:9594
+#EXTINF:77 tvg-name="HTVC Phim" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim (HD 4.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.118:9594
+#EXTINF:74 tvg-name="HTVC Thuần Việt HD" group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",Thuần Việt HD (HD 4Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.134:9600
+#EXTINF:168 tvg-name="HTVC Plus" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ (HD 4.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.245:11392
+#EXTINF:10 tvg-name="HTV1" group-title="HTV/HTVC" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.35:8184
+#EXTINF:87 tvg-name="HTV3" group-title="HTV/HTVC" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.104:8598
+#EXTINF:14 tvg-name="HTV4" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.25:8124
+#EXTINF:107 tvg-name="HTVC Ca Nhạc" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.126:8730
+#EXTINF:144 tvg-name="HTVC Du Lịch Cuộc Sống" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.221:9300
+#EXTINF:64 tvg-name="HTVC Gia Đình" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.170:8994
+#EXTINF:205 tvg-name="HTVC Phụ Nữ" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.127:8736
+#EXTINF:124 tvg-name="HTVC Thuần Việt" group-title="HTV/HTVC" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.22:8106
+#EXTINF:-1 tvg-name="HTVC Plus" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.32:8166
+#------------------------Thiết Yếu------------------------#
+#EXTINF:80 tvg-name="Nhân Dân" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.124:10822
+#EXTINF:7 tvg-name="Quốc Hội" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.234:10290
+#EXTINF:127 tvg-name="QPVN" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.127:10816
+#EXTINF:133 tvg-name="VNews" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.125:10434
+#EXTINF:35 tvg-name="ANTV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.212:9246
+#EXTINF:-1 tvg-name="QPVN" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.228:9342
+#EXTINF:-1 tvg-name="VNews" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.52:8292
+#------------------------Other------------------------#
+#EXTINF:79 tvg-name="MTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV (HD 7Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.171:10834
+#EXTINF:79 tvg-name="MTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV (HD 7Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.107:10834
+#EXTINF:92 tvg-name="HITV" group-title="Other Channel" tvg-logo="https://i.imgur.com/v08VbZS.png",HCATV1 HiTV
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.55:8310
+#EXTINF:-1 tvg-name="MTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.82:8466
+#------------------------Địa phương (HD)------------------------#
+#EXTINF:211 tvg-name="Yên Bái" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6tey10m.png",YTV HD _ TH Yên Bái (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.253:11440
+#EXTINF:281 tvg-name="Hòa Bình" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ZaIE9WA.png",HBTV HD _ TH Hòa Bình (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.213:11200
+#EXTINF:203 tvg-name="Thái Nguyên" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NmObKjO.png",TN1 HD _ TH Thái Nguyên (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.146:10774
+#EXTINF:192 tvg-name="Phú Thọ" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QFDB4wh.png",PTV HD _ TH Phú Thọ (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.148:10792
+#EXTINF:981 tvg-name="Bắc Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/VIPvHmt.jpg",BGTV HD _ TH Bắc Giang (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.100:11452
+#EXTINF:111 tvg-name="Cao Bằng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",CRTV HD _ TH Cao Bằng (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.202:11134
+#EXTINF:971 tvg-name="Bắc Kạn" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dKxJtNi.png",TBK HD _ TH Bắc Kạn (HD 4Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.94:11488
+#EXTINF:121 tvg-name="Lạng Sơn" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/vFEB8Bv.png",LSTV HD _ TH Lạng Sơn (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.203:11140
+#EXTINF:244 tvg-name="Quảng Ninh 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jOutDk2.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.248:10978
+#EXTINF:245 tvg-name="Quảng Ninh 3" group-title="Địa Phương (HD)" tvg-logo="",QTV3 HD _ TH Quảng Ninh (HD 5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.249:10984
+#EXTINF:992 tvg-name="Bắc Ninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/t2s5M6k.png",BTV _ TH Bắc Ninh (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.245:10506
+#EXTINF:190 tvg-name="Hà Nội 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/tMHmrZz.jpg",H1 HD _ TH Hà Nội (HD 2.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.143:10738
+#EXTINF:159 tvg-name="Hải Phòng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HZluJKB.png",THP HD _ TH TP. Hải Phòng (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.142:10780
+#EXTINF:892 tvg-name="Hưng Yên" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/rIV7Na3.png",HY HD _ TH Hưng Yên (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.110:10786
+#EXTINF:351 tvg-name="Ninh Bình" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2oq7AS0.png",NTV HD _ TH Ninh Bình (HD 4Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.89:11518
+#EXTINF:362 tvg-name="Thanh Hóa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dZjhLJd.png",TTV HD _ TH Thanh Hóa (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.198:11110
+#EXTINF:372 tvg-name="Nghệ An" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/pUtPrig.png",NTV HD _ TH Nghệ An (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.198:10972
+#EXTINF:382 tvg-name="Hà Tĩnh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NNbenRy.png",HTTV HD _ TH Hà Tĩnh (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.134:10768
+#EXTINF:762 tvg-name="Quảng Ngãi" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/Xh6cZmD.png",PTQ _ TH Quảng Ngãi (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.126:10798
+#EXTINF:471 tvg-name="Đắk Lắk" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/M15qNZ0.png",DRT HD _ TH Đắk Lắk (HD 4Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.99:11464
+#EXTINF:613 tvg-name="Bình Dương 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/1j3c9nK.jpg",BTV1 HD _ TH Bình Dương (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.109:10750
+#EXTINF:615 tvg-name="iMovie" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dG7w5h6.png",BTV4 HD _ TH Bình Dương (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.156:10756
+#EXTINF:616 tvg-name="" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/glzn3Lj.png",BTV9 An Viên HD (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.199:11116
+#EXTINF:603 tvg-name="Đồng Nai 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUKKdCf.png",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.112:10762
+#EXTINF:631 tvg-name="Tiền Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/EH5ogzk.png",THTG HD _ TH Tiền Giang (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.204:11146
+#EXTINF:711 tvg-name="Bến Tre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AnjYRjM.png",THBT HD _ TH Bến Tre (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.95:11482
+#EXTINF:24 tvg-name="Vĩnh Long 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.183:10882
+#EXTINF:28 tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.184:10888
+#EXTINF:24 tvg-name="Vĩnh Long 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.152:10882
+#EXTINF:28 tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.164:10888
+#EXTINF:29 tvg-name="Vĩnh Long 3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 HD _ TH Vĩnh Long (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.165:10900
+#EXTINF:57 tvg-name="Vĩnh Long 4" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/iuYepMv.jpg",THVL4 HD _ TH Vĩnh Long (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.160:10912
+#EXTINF:683 tvg-name="Kiên Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2U316M0.png",KG _ TH Kiên Giang (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.161:10918
+#EXTINF:831 tvg-name="Sóc Trăng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/z7bCa6s.png",STV1 HD _ TH Sóc Trăng (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.97:11470
+#------------------------Quốc Tế (HD)------------------------#
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Quốc Tế (HD)" tvg-logo="",Animal Planet (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.139:10702
+#EXTINF:-1 tvg-name="Animax" group-title="Quốc Tế (HD)" tvg-logo="",ANIMAX (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.18:8082
+#EXTINF:-1 tvg-name="Asian Food Network" group-title="Quốc Tế (HD)" tvg-logo="",Asian Food Network (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.129:9570
+#EXTINF:-1 tvg-name="AXN" group-title="Quốc Tế (HD)" tvg-logo="",AXN (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.121:10660
+#EXTINF:-1 tvg-name="BabyTV" group-title="Quốc Tế (HD)" tvg-logo="",Baby TV (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.36:10624
+#EXTINF:-1 tvg-name="BabyTV" group-title="Quốc Tế (HD)" tvg-logo="",Baby TV (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.128:10624
+#EXTINF:-1 tvg-name="CBeebies" group-title="Quốc Tế (HD)" tvg-logo="",BBC CBeeBies (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.90:10398
+#EXTINF:-1 tvg-name="BBC Earth" group-title="Quốc Tế (HD)" tvg-logo="",BBC Earth (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.226:11278
+#EXTINF:-1 tvg-name="BBC Life Style" group-title="Quốc Tế (HD)" tvg-logo="",BBC Lifestyle (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.225:11272
+#EXTINF:-1 tvg-name="BBC News" group-title="Quốc Tế (HD)" tvg-logo="",BBC World News (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.224:11266
+#EXTINF:-1 tvg-name="Bloomberg" group-title="Quốc Tế (HD)" tvg-logo="",Bloomberg (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.157:10696
+#EXTINF:-1 tvg-name="Boomerang" group-title="Quốc Tế (HD)" tvg-logo="",Boomerang (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.222:11254
+#EXTINF:-1 tvg-name="Box Hits" group-title="Quốc Tế (HD)" tvg-logo="",BOX HITS (HD 2.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.77:8436
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Quốc Tế (HD)" tvg-logo="",Cartoon Network (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.144:10684
+#EXTINF:-1 tvg-name="CinemaWorld" group-title="Quốc Tế (HD)" tvg-logo="",Cinema World (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.172:10840
+#EXTINF:-1 tvg-name="CinemaWorld" group-title="Quốc Tế (HD)" tvg-logo="",Cinema World (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.103:10840
+#EXTINF:-1 tvg-name="Cinemax" group-title="Quốc Tế (HD)" tvg-logo="",CINEMAX (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.117:10654
+#EXTINF:-1 tvg-name="" group-title="Quốc Tế (HD)" tvg-logo="",Clubbing TV (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.96:11476
+#EXTINF:-1 tvg-name="Channel News Asia" group-title="Quốc Tế (HD)" tvg-logo="",CNA (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.55:10540
+#EXTINF:-1 tvg-name="Channel News Asia" group-title="Quốc Tế (HD)" tvg-logo="",CNA (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.155:10540
+#EXTINF:-1 tvg-name="CNN" group-title="Quốc Tế (HD)" tvg-logo="",CNN (HD 5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.153:10690
+#EXTINF:-1 tvg-name="DaVinci" group-title="Quốc Tế (HD)" tvg-logo="",Da Vinci (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.131:9582
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.53:10528
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel (HD 9Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.132:10528
+#EXTINF:-1 tvg-name="Discovery Asia" group-title="Quốc Tế (HD)" tvg-logo="",Discovery Asia (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.219:11236
+#EXTINF:-1 tvg-name="DreamWorks" group-title="Quốc Tế (HD)" tvg-logo="",Dreamworks (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.227:11284
+#EXTINF:-1 tvg-name="DW" group-title="Quốc Tế (HD)" tvg-logo="",DW (English) (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.233:10416
+#EXTINF:-1 tvg-name="DW" group-title="Quốc Tế (HD)" tvg-logo="",DW (English) (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.154:10416
+#EXTINF:-1 tvg-name="Fashion TV" group-title="Quốc Tế (HD)" tvg-logo="",Fashion TV (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.52:10522
+#EXTINF:-1 tvg-name="Fashion TV" group-title="Quốc Tế (HD)" tvg-logo="",Fashion TV (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.149:10522
+#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)" tvg-logo="",HBO (HD 11Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.138:10648
+#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)" tvg-logo="",HBO (HD 11Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.101:10648
+#EXTINF:-1 tvg-name="HITS" group-title="Quốc Tế (HD)" tvg-logo="",HITS (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.214:11206
+#EXTINF:-1 tvg-name="Music Box" group-title="Quốc Tế (HD)" tvg-logo="",Music Box (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.13:8052
+#EXTINF:-1 tvg-name="National Geographic Channel" group-title="Quốc Tế (HD)" tvg-logo="",NATIONAL GEOGRAPHIC HD (HD 7Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.1:7980
+#EXTINF:-1 tvg-name="National Geographic Wild" group-title="Quốc Tế (HD)" tvg-logo="",NAT GEO WILD (HD 7.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.123:8454
+#EXTINF:-1 tvg-name="NHK World" group-title="Quốc Tế (HD)" tvg-logo="",NHK WORLD JAPAN (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.72:8406
+#EXTINF:-1 tvg-name="Outdoor Channel" group-title="Quốc Tế (HD)" tvg-logo="",Outdoor Channel (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.107:10218
+#EXTINF:-1 tvg-name="TLC" group-title="Quốc Tế (HD)" tvg-logo="",TLC (HD 6Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.156:10708
+#EXTINF:-1 tvg-name="" group-title="Quốc Tế (HD)" tvg-logo="",TVE (HD 6.5Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.205:11152
+#EXTINF:-1 tvg-name="Warner TV" group-title="Quốc Tế (HD)" tvg-logo="",WBTV (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.51:10516
+#EXTINF:-1 tvg-name="Warner TV" group-title="Quốc Tế (HD)" tvg-logo="",WBTV (HD 8Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.114:10516
+#------------------------MyTV------------------------#
+#EXTINF:801 tvg-name="" group-title="MyTV Service" tvg-logo="",801
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.175:10858
+#EXTINF:802 tvg-name="" group-title="MyTV Service" tvg-logo="",802
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.176:10864
+#EXTINF:803 tvg-name="" group-title="MyTV Service" tvg-logo="",803
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.195:10954
+#EXTINF:804 tvg-name="" group-title="MyTV Service" tvg-logo="",804
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.196:10960
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Mosaic 1
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.174:9426
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Mosaic 2
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.173:9432
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Meliã Hotels International
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.54:10534
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Meliã Hotels International
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.197:11080
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Vin Group
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.239:10302
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",MyTV Giới Thiệu
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.195:11092
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",MyTV Giới Thiệu
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.238:10296
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Service
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.56:10546
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Feed Quốc Hội
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.1:10278
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",POCCNR PTP
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.127:8544
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.197:10966
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.201:11128
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.194:11086
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown 
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.210:11182
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown 
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.137:10744
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown 
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.23:8112
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown 
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.135:10476
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Vĩnh Long 1 (Test)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.212:11194
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",ON Sports (Test)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.242:11374
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",ON Football (Test)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.243:11380
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",ON Golf (Test)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.244:11386
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",ON Football (Test)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.93:11494
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",ON Golf (Test)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.91:11506
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",E Channel (Test)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.90:11512
+#------------------------Mua Sắm------------------------#
+#EXTINF:48 tvg-name="SCTV5" group-title="Mua Sắm" tvg-logo="",SCTV5 SCJ TV Shopping (HD 4Mbps)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.3.254:11446
+#EXTINF:-1 tvg-name="SCTV5" group-title="Mua Sắm" tvg-logo="",SCTV5 SCJ TV Shopping
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.180:10338
+#EXTINF:8 tvg-name="VTVCab11 - GS Shop" group-title="Mua Sắm" tvg-logo="",VTVcab11 GS Shop
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.229:9348
+#EXTINF:17 tvg-name="VTVCab13 - VTV Hyundai Homeshopping" group-title="Mua Sắm" tvg-logo="",VTVcab13 VTV Hyundai Homeshopping
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.142:10386
+#------------------------DRM------------------------#
+#EXTINF:199 tvg-name="VTVCab23 - ON Golf" group-title="VTVcab" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf HD (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.2.246:10876
+#EXTINF:36 tvg-name="VTVCab3 - ON Sports" group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.208:9222
+#EXTINF:100 tvg-name="VTVCab5 - E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/XySB4yh.jpg",VTVcab5 E Channel (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.193:9132
+#EXTINF:101 tvg-name="VTVCab6 - ON Sports+" group-title="VTVcab" tvg-logo="https://i.imgur.com/1p7Qi8i.jpg",ON Sports+ (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.220:9294
+#EXTINF:129 tvg-name="K+CINE" group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine HD (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.122:10314
+#EXTINF:130 tvg-name="K+LIFE" group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life HD (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.123:10320
+#EXTINF:131 tvg-name="K+SPORT1" group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 HD (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.125:10326
+#EXTINF:140 tvg-name="K+SPORT2" group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 HD (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.176:10374
+#EXTINF:86 tvg-name="K+CINE" group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.96:8550
+#EXTINF:88 tvg-name="K+LIFE" group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.97:8556
+#EXTINF:89 tvg-name="K+SPORT1" group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.98:8562
+#EXTINF:139 tvg-name="K+SPORT2" group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (DRM)
+http://hanzoitc.drayddns.com:34040/rtp/232.84.1.131:10368
