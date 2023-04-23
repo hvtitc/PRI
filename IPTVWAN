@@ -353,28 +353,3 @@ http://hanzoitc.drayddns.com:34040/rtp/232.84.2.180:10338
 http://hanzoitc.drayddns.com:34040/rtp/232.84.1.229:9348
 #EXTINF:17 tvg-name="VTVCab13 - VTV Hyundai Homeshopping" group-title="Mua Sắm" tvg-logo="",VTVcab13 VTV Hyundai Homeshopping
 http://hanzoitc.drayddns.com:34040/rtp/232.84.1.142:10386
-#------------------------DRM------------------------#
-#EXTINF:199 tvg-name="VTVCab23 - ON Golf" group-title="VTVcab" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf HD (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.2.246:10876
-#EXTINF:36 tvg-name="VTVCab3 - ON Sports" group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.208:9222
-#EXTINF:100 tvg-name="VTVCab5 - E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/XySB4yh.jpg",VTVcab5 E Channel (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.193:9132
-#EXTINF:101 tvg-name="VTVCab6 - ON Sports+" group-title="VTVcab" tvg-logo="https://i.imgur.com/1p7Qi8i.jpg",ON Sports+ (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.220:9294
-#EXTINF:129 tvg-name="K+CINE" group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine HD (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.122:10314
-#EXTINF:130 tvg-name="K+LIFE" group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life HD (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.123:10320
-#EXTINF:131 tvg-name="K+SPORT1" group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 HD (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.125:10326
-#EXTINF:140 tvg-name="K+SPORT2" group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 HD (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.176:10374
-#EXTINF:86 tvg-name="K+CINE" group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.96:8550
-#EXTINF:88 tvg-name="K+LIFE" group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.97:8556
-#EXTINF:89 tvg-name="K+SPORT1" group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.98:8562
-#EXTINF:139 tvg-name="K+SPORT2" group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (DRM)
-http://hanzoitc.drayddns.com:34040/rtp/232.84.1.131:10368
