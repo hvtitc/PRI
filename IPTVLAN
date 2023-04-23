@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://hqth.me/epg"
+#EXTM3U url-tvg="http://hqth.me/epg" test
 #------------------------VTV------------------------#
 #EXTINF:1 tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 (HD 8.5Mbps)
 http://192.168.67.1:4025/rtp/232.84.1.117:10254
