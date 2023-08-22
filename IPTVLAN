@@ -109,7 +109,7 @@ http://192.168.10.21:34040/rtp/232.84.1.127:8736
 http://192.168.10.21:34040/rtp/232.84.1.22:8106
 #EXTINF:-1 tvg-name="HTVC Plus" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+
 http://192.168.10.21:34040/rtp/232.84.1.32:8166
-#--*.*--SCTV--*.*--#
+#------------------------SCTV------------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
