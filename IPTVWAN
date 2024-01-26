@@ -251,71 +251,67 @@ http://hanzoitc.drayddns.com:35051/rtp/232.84.3.161:10918
 #EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trăng (HD 8Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.97:11470
 #------------------------Quốc Tế (HD)------------------------#
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Quốc Tế (HD)" tvg-logo="",Animal Planet (HD 6.5Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.3.139:10702
-#EXTINF:-1 tvg-name="Animax" group-title="Quốc Tế (HD)" tvg-logo="",ANIMAX (HD 9Mbps)
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 10Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.3.61:11686
+#EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax (HD 9Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.1.18:8082
-#EXTINF:-1 tvg-name="Asian Food Network" group-title="Quốc Tế (HD)" tvg-logo="",Asian Food Network (HD 6.5Mbps)
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 7.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.129:9570
-#EXTINF:-1 tvg-name="AXN" group-title="Quốc Tế (HD)" tvg-logo="",AXN (HD 8.5Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.3.121:10660
-#EXTINF:-1 tvg-name="BabyTV" group-title="Quốc Tế (HD)" tvg-logo="",Baby TV (HD 6.5Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.2.36:10624
-#EXTINF:-1 tvg-name="CBeebies" group-title="Quốc Tế (HD)" tvg-logo="",BBC CBeeBies (HD 9Mbps)
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.2.140:10660
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 9Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.1.90:10398
-#EXTINF:-1 tvg-name="BBC Earth" group-title="Quốc Tế (HD)" tvg-logo="",BBC Earth (HD 8Mbps)
+#EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.226:11278
-#EXTINF:-1 tvg-name="BBC Life Style" group-title="Quốc Tế (HD)" tvg-logo="",BBC Lifestyle (HD 9Mbps)
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 9Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.225:11272
-#EXTINF:-1 tvg-name="BBC News" group-title="Quốc Tế (HD)" tvg-logo="",BBC World News (HD 9Mbps)
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 9Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.224:11266
-#EXTINF:-1 tvg-name="Bloomberg" group-title="Quốc Tế (HD)" tvg-logo="",Bloomberg (HD 9Mbps)
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 15Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.157:10696
-#EXTINF:-1 tvg-name="Box Hits" group-title="Quốc Tế (HD)" tvg-logo="",BOX HITS (HD 2.5Mbps)
+#EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits (HD 5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.1.77:8436
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="Quốc Tế (HD)" tvg-logo="",Cartoon Network (HD 9Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.2.144:10684
-#EXTINF:-1 tvg-name="CinemaWorld" group-title="Quốc Tế (HD)" tvg-logo="",Cinema World (HD 8Mbps)
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 10Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.3.62:11680
+#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 10Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.3.222:11254
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.172:10840
-#EXTINF:-1 tvg-name="Cinemax" group-title="Quốc Tế (HD)" tvg-logo="",CINEMAX (HD 9Mbps)
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 9Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.117:10654
-#EXTINF:-1 tvg-name="" group-title="Quốc Tế (HD)" tvg-logo="",Clubbing TV (HD 8.5Mbps)
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.96:11476
-#EXTINF:-1 tvg-name="Channel News Asia" group-title="Quốc Tế (HD)" tvg-logo="",CNA (HD 6.5Mbps)
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 6.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.55:10540
-#EXTINF:-1 tvg-name="CNN" group-title="Quốc Tế (HD)" tvg-logo="",CNN (HD 5Mbps)
+#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.153:10690
-#EXTINF:-1 tvg-name="DaVinci" group-title="Quốc Tế (HD)" tvg-logo="",Da Vinci (HD 8.5Mbps)
+#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 7.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.131:9582
-#EXTINF:-1 tvg-name="Discovery Channel" group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel (HD 9Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.2.53:10528
-#EXTINF:-1 tvg-name="Discovery Asia" group-title="Quốc Tế (HD)" tvg-logo="",Discovery Asia (HD 8Mbps)
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 9.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.219:11236
-#EXTINF:-1 tvg-name="DreamWorks" group-title="Quốc Tế (HD)" tvg-logo="",Dreamworks (HD 8Mbps)
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 10Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.2.53:10528
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 15Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.227:11284
-#EXTINF:-1 tvg-name="DW" group-title="Quốc Tế (HD)" tvg-logo="",DW (English) (HD 8.5Mbps)
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.233:10416
-#EXTINF:-1 tvg-name="Fashion TV" group-title="Quốc Tế (HD)" tvg-logo="",Fashion TV (HD 8.5Mbps)
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.52:10522
-#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)" tvg-logo="",HBO (HD 11Mbps)
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.138:10648
-#EXTINF:-1 tvg-name="HITS" group-title="Quốc Tế (HD)" tvg-logo="",HITS (HD 6.5Mbps)
+#EXTINF:0 tvg-id="hits" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/uDyLdcq.png",HITS (HD 6.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.214:11206
-#EXTINF:-1 tvg-name="Music Box" group-title="Quốc Tế (HD)" tvg-logo="",Music Box (HD 8Mbps)
+#EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box (HD 8Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.1.13:8052
-#EXTINF:-1 tvg-name="National Geographic Channel" group-title="Quốc Tế (HD)" tvg-logo="",NATIONAL GEOGRAPHIC HD (HD 7Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.1.1:7980
-#EXTINF:-1 tvg-name="National Geographic Wild" group-title="Quốc Tế (HD)" tvg-logo="",NAT GEO WILD (HD 7.5Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.2.123:8454
-#EXTINF:-1 tvg-name="NHK World" group-title="Quốc Tế (HD)" tvg-logo="",NHK WORLD JAPAN (HD 8.5Mbps)
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.1.72:8406
-#EXTINF:-1 tvg-name="Outdoor Channel" group-title="Quốc Tế (HD)" tvg-logo="",Outdoor Channel (HD 8.5Mbps)
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor (HD 7.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.1.107:10218
-#EXTINF:-1 tvg-name="TLC" group-title="Quốc Tế (HD)" tvg-logo="",TLC (HD 6Mbps)
+#EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.156:10708
-#EXTINF:-1 tvg-name="" group-title="Quốc Tế (HD)" tvg-logo="",TVE (HD 6.5Mbps)
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE (HD 6.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.205:11152
-#EXTINF:-1 tvg-name="Warner TV" group-title="Quốc Tế (HD)" tvg-logo="",WBTV (HD 8Mbps)
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.51:10516
 #------------------------Mua Sắm------------------------#
 #EXTINF:48 tvg-name="SCTV5" group-title="Mua Sắm" tvg-logo="",SCTV5 SCJ TV Shopping (HD 4Mbps)
