@@ -180,69 +180,75 @@ http://hanzoitc.drayddns.com:35051/rtp/232.84.3.125:10434
 #EXTINF:92 tvg-name="HITV" group-title="Other Channel" tvg-logo="https://i.imgur.com/v08VbZS.png",HCATV1 HiTV
 http://hanzoitc.drayddns.com:35051/rtp/232.84.1.55:8310
 #------------------------Địa phương (HD)------------------------#
-#EXTINF:211 tvg-name="Yên Bái" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6tey10m.png",YTV HD _ TH Yên Bái (HD 6Mbps)
+#EXTINF:0 tvg-id="yenbai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.253:11440
-#EXTINF:281 tvg-name="Hòa Bình" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ZaIE9WA.png",HBTV HD _ TH Hòa Bình (HD 6Mbps)
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.213:11200
-#EXTINF:203 tvg-name="Thái Nguyên" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NmObKjO.png",TN1 HD _ TH Thái Nguyên (HD 6Mbps)
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.146:10774
-#EXTINF:192 tvg-name="Phú Thọ" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QFDB4wh.png",PTV HD _ TH Phú Thọ (HD 6Mbps)
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.148:10792
-#EXTINF:981 tvg-name="Bắc Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/VIPvHmt.jpg",BGTV HD _ TH Bắc Giang (HD 6Mbps)
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang (HD 7.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.100:11452
-#EXTINF:111 tvg-name="Cao Bằng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",CRTV HD _ TH Cao Bằng (HD 6Mbps)
+#EXTINF:0 tvg-id="caobang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.202:11134
-#EXTINF:971 tvg-name="Bắc Kạn" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dKxJtNi.png",TBK HD _ TH Bắc Kạn (HD 4Mbps)
+#EXTINF:0 tvg-id="backan" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn (HD 8Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.94:11488
-#EXTINF:121 tvg-name="Lạng Sơn" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/vFEB8Bv.png",LSTV HD _ TH Lạng Sơn (HD 6Mbps)
+#EXTINF:0 tvg-id="langson" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.203:11140
-#EXTINF:244 tvg-name="Quảng Ninh 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jOutDk2.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.1.248:10978
-#EXTINF:245 tvg-name="Quảng Ninh 3" group-title="Địa Phương (HD)" tvg-logo="",QTV3 HD _ TH Quảng Ninh (HD 5Mbps)
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 6.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.1.249:10984
-#EXTINF:992 tvg-name="Bắc Ninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/t2s5M6k.png",BTV _ TH Bắc Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.245:10506
-#EXTINF:190 tvg-name="Hà Nội 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/tMHmrZz.jpg",H1 HD _ TH Hà Nội (HD 2.5Mbps)
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 4Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.143:10738
-#EXTINF:159 tvg-name="Hải Phòng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HZluJKB.png",THP HD _ TH TP. Hải Phòng (HD 6Mbps)
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 4Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.3.137:10744
+#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.142:10780
-#EXTINF:892 tvg-name="Hưng Yên" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/rIV7Na3.png",HY HD _ TH Hưng Yên (HD 6Mbps)
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng (HD 6Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.3.83:11554
+#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD _ TH Hưng Yên (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.110:10786
-#EXTINF:351 tvg-name="Ninh Bình" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2oq7AS0.png",NTV HD _ TH Ninh Bình (HD 4Mbps)
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình (HD 8Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.89:11518
-#EXTINF:362 tvg-name="Thanh Hóa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dZjhLJd.png",TTV HD _ TH Thanh Hóa (HD 6.5Mbps)
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa (HD 8.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.198:11110
-#EXTINF:372 tvg-name="Nghệ An" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/pUtPrig.png",NTV HD _ TH Nghệ An (HD 6.5Mbps)
+#EXTINF:0 tvg-id="nghean" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 4Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.2.198:10972
-#EXTINF:382 tvg-name="Hà Tĩnh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NNbenRy.png",HTTV HD _ TH Hà Tĩnh (HD 6.5Mbps)
+#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh (HD 8.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.134:10768
-#EXTINF:762 tvg-name="Quảng Ngãi" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/Xh6cZmD.png",PTQ _ TH Quảng Ngãi (HD 6Mbps)
+#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.126:10798
-#EXTINF:471 tvg-name="Đắk Lắk" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/M15qNZ0.png",DRT HD _ TH Đắk Lắk (HD 4Mbps)
+#EXTINF:0 tvg-id="kontum" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 7.5Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.3.80:11572
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk (HD 5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.99:11464
-#EXTINF:613 tvg-name="Bình Dương 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/1j3c9nK.jpg",BTV1 HD _ TH Bình Dương (HD 6Mbps)
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.109:10750
-#EXTINF:615 tvg-name="iMovie" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dG7w5h6.png",BTV4 HD _ TH Bình Dương (HD 6Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.2.156:10756
-#EXTINF:616 tvg-name="" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/glzn3Lj.png",BTV9 An Viên HD (HD 8.5Mbps)
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.199:11116
-#EXTINF:603 tvg-name="Đồng Nai 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUKKdCf.png",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.112:10762
-#EXTINF:631 tvg-name="Tiền Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/EH5ogzk.png",THTG HD _ TH Tiền Giang (HD 6Mbps)
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.204:11146
-#EXTINF:711 tvg-name="Bến Tre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AnjYRjM.png",THBT HD _ TH Bến Tre (HD 6Mbps)
+#EXTINF:0 tvg-id="angiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8.5Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.3.81:11566
+#EXTINF:0 tvg-id="bentre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 8.5Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.95:11482
-#EXTINF:24 tvg-name="Vĩnh Long 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.2.183:10882
-#EXTINF:28 tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
-http://hanzoitc.drayddns.com:35051/rtp/232.84.2.184:10888
-#EXTINF:29 tvg-name="Vĩnh Long 3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 HD _ TH Vĩnh Long (HD 6.5Mbps)
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.3.152:10882
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+http://hanzoitc.drayddns.com:35051/rtp/232.84.3.164:10888
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 7Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.165:10900
-#EXTINF:57 tvg-name="Vĩnh Long 4" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/iuYepMv.jpg",THVL4 HD _ TH Vĩnh Long (HD 6Mbps)
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 7Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.160:10912
-#EXTINF:683 tvg-name="Kiên Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2U316M0.png",KG _ TH Kiên Giang (HD 6Mbps)
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang (HD 6Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.161:10918
-#EXTINF:831 tvg-name="Sóc Trăng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/z7bCa6s.png",STV1 HD _ TH Sóc Trăng (HD 6Mbps)
+#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trăng (HD 8Mbps)
 http://hanzoitc.drayddns.com:35051/rtp/232.84.3.97:11470
 #------------------------Quốc Tế (HD)------------------------#
 #EXTINF:-1 tvg-name="Animal Planet" group-title="Quốc Tế (HD)" tvg-logo="",Animal Planet (HD 6.5Mbps)
