@@ -39,8 +39,6 @@ http://192.168.20.17:35051/rtp/232.84.1.205:9204
 http://192.168.20.17:35051/rtp/232.84.1.244:9438
 #EXTINF:196 tvg-name="VTVCab15 - M Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/dEzdry4.jpg",ON Music
 http://192.168.20.17:35051/rtp/232.84.2.192:10936
-#EXTINF:38 tvg-name="VTVCab16 - ON Football" group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football
-http://192.168.20.17:35051/rtp/232.84.1.138:8802
 #EXTINF:104 tvg-name="VTVCab17 - Yeah1 TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVcab17 Yeah1!TV
 http://192.168.20.17:35051/rtp/232.84.1.217:9276
 #EXTINF:132 tvg-name="VTVCab20 - V Family" group-title="VTVcab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVcab20 V Family
