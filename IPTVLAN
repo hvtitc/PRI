@@ -23,30 +23,34 @@ http://192.168.20.17:35051/rtp/232.84.3.86:11542
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 9Mbps)
 http://192.168.20.17:35051/rtp/232.84.3.66:11656
 #------------------------VTVcab------------------------#
-#EXTINF:194 tvg-name="VTVCab4 - Phim Đặc Sắc" group-title="VTVcab" tvg-logo="https://i.imgur.com/BIy8hdr.jpg",ON Movies (HD 8.5Mbps)
-http://192.168.20.17:35051/rtp/232.84.2.190:10924
-#EXTINF:102 tvg-name="VTVCab8 - Bibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",ON BiBi (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.242:11374
+#EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi (HD 8.5Mbps)
 http://192.168.20.17:35051/rtp/232.84.3.217:11224
-#EXTINF:99 tvg-name="VTVCab19 - Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 Vie Dramas (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.72:11620
+#EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.76:11596
+#EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.73:11614
+#EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies (HD 8.5Mbps)
+http://192.168.20.17:35051/rtp/232.84.2.190:10924
+#EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.70:11632
+#EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.74:11608
+#EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.77:11590
+#EXTINF:0 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.71:11626
+#EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.69:11638
+#EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.68:11644
+#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas (HD 8.5Mbps)
 http://192.168.20.17:35051/rtp/232.84.3.218:11230
-#EXTINF:97 tvg-name="VTVCab1 - Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVcab1 Vie Giải Trí
-http://192.168.20.17:35051/rtp/232.84.1.143:8832
-#EXTINF:98 tvg-name="VTVCab2 - ON Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/6iITUe5.jpg",ON Phim Việt
-http://192.168.20.17:35051/rtp/232.84.1.168:8982
-#EXTINF:91 tvg-name="VTVCab7 - Sức khỏe và cuộc sống" group-title="VTVcab" tvg-logo="https://i.imgur.com/bFWgi4j.png",ON O2TV
-http://192.168.20.17:35051/rtp/232.84.1.26:8130
-#EXTINF:195 tvg-name="VTVCab9 - Info TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/TuYOsTV.jpg",VTVcab9 Info TV
-http://192.168.20.17:35051/rtp/232.84.2.191:10930
-#EXTINF:105 tvg-name="VTVCab10 - ON Cine" group-title="VTVcab" tvg-logo="https://i.imgur.com/13KxydE.jpg",ON Cine
-http://192.168.20.17:35051/rtp/232.84.1.205:9204
-#EXTINF:103 tvg-name="VTVCab12 - Style TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/XquBifl.jpg",VTVcab12 Style TV
-http://192.168.20.17:35051/rtp/232.84.1.244:9438
-#EXTINF:196 tvg-name="VTVCab15 - M Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/dEzdry4.jpg",ON Music
-http://192.168.20.17:35051/rtp/232.84.2.192:10936
-#EXTINF:104 tvg-name="VTVCab17 - Yeah1 TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVcab17 Yeah1!TV
-http://192.168.20.17:35051/rtp/232.84.1.217:9276
-#EXTINF:132 tvg-name="VTVCab20 - V Family" group-title="VTVcab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVcab20 V Family
-http://192.168.20.17:35051/rtp/232.84.1.245:10344
+#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.78:11584
 #------------------------VTC------------------------#
 #EXTINF:75 tvg-name="VTC1" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD (HD 8.5Mbps)
 http://192.168.20.17:35051/rtp/232.84.2.173:10846
