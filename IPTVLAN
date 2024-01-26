@@ -18,6 +18,10 @@ http://192.168.20.17:35051/rtp/232.84.2.202:10996
 http://192.168.20.17:35051/rtp/232.84.2.34:10612
 #EXTINF:69 tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 (HD 8.5Mbps)
 http://192.168.20.17:35051/rtp/232.84.2.35:10618
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 9Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.86:11542
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 9Mbps)
+http://192.168.20.17:35051/rtp/232.84.3.66:11656
 #------------------------VTVcab------------------------#
 #EXTINF:194 tvg-name="VTVCab4 - Phim Đặc Sắc" group-title="VTVcab" tvg-logo="https://i.imgur.com/BIy8hdr.jpg",ON Movies (HD 8.5Mbps)
 http://192.168.20.17:35051/rtp/232.84.2.190:10924
