@@ -358,9 +358,7 @@ http://192.168.10.46:35051/rtp/232.84.2.118:8838
 #------------------------Quốc Tế (HD)------------------------#
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 10Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.61:11686
-#EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax (HD 9Mbps)
-http://192.168.10.46:35051/rtp/232.84.1.18:8082
-#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 7.5Mbps)
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 6.5Mbps)
 http://192.168.10.46:35051/rtp/232.84.2.129:9570
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
 http://192.168.10.46:35051/rtp/232.84.2.140:10660
@@ -378,10 +376,8 @@ http://192.168.10.46:35051/rtp/232.84.3.157:10696
 http://192.168.10.46:35051/rtp/232.84.1.77:8436
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 10Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.62:11680
-#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 10Mbps)
-http://192.168.10.46:35051/rtp/232.84.3.222:11254
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
-http://192.168.10.46:35051/rtp/232.84.2.172:10840
+http://192.168.10.46:35051/rtp/232.84.3.64:11668
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 9Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.117:10654
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
@@ -396,34 +392,27 @@ http://192.168.10.46:35051/rtp/232.84.2.131:9582
 http://192.168.10.46:35051/rtp/232.84.3.219:11236
 #EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 10Mbps)
 http://192.168.10.46:35051/rtp/232.84.2.53:10528
+#EXTINF:0 tvg-id="dmax" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax (HD 8.5Mbps)
+http://192.168.10.46:35051/rtp/232.84.1.1:7980
 #EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 15Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.227:11284
-#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8.5Mbps)
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (HD 8.5Mbps)
 http://192.168.10.46:35051/rtp/232.84.2.233:10416
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
 http://192.168.10.46:35051/rtp/232.84.2.52:10522
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
 http://192.168.10.46:35051/rtp/232.84.2.138:10648
-#EXTINF:0 tvg-id="hits" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/uDyLdcq.png",HITS (HD 6.5Mbps)
-http://192.168.10.46:35051/rtp/232.84.3.214:11206
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box (HD 8Mbps)
 http://192.168.10.46:35051/rtp/232.84.1.13:8052
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8.5Mbps)
 http://192.168.10.46:35051/rtp/232.84.1.72:8406
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor (HD 7.5Mbps)
 http://192.168.10.46:35051/rtp/232.84.1.107:10218
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
+http://192.168.10.46:35051/rtp/232.84.2.141:10666
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
+http://192.168.10.46:35051/rtp/232.84.2.142:10672
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 6Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.156:10708
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE (HD 6.5Mbps)
-http://192.168.10.46:35051/rtp/232.84.3.205:11152
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 http://192.168.10.46:35051/rtp/232.84.2.51:10516
-#------------------------Mua Sắm------------------------#
-#EXTINF:48 tvg-name="SCTV5" group-title="Mua Sắm" tvg-logo="",SCTV5 SCJ TV Shopping (HD 4Mbps)
-http://192.168.10.46:35051/rtp/232.84.3.254:11446
-#EXTINF:-1 tvg-name="SCTV5" group-title="Mua Sắm" tvg-logo="",SCTV5 SCJ TV Shopping
-http://192.168.10.46:35051/rtp/232.84.2.180:10338
-#EXTINF:8 tvg-name="VTVCab11 - GS Shop" group-title="Mua Sắm" tvg-logo="",VTVcab11 GS Shop
-http://192.168.10.46:35051/rtp/232.84.1.229:9348
-#EXTINF:17 tvg-name="VTVCab13 - VTV Hyundai Homeshopping" group-title="Mua Sắm" tvg-logo="",VTVcab13 VTV Hyundai Homeshopping
-http://192.168.10.46:35051/rtp/232.84.1.142:10386
