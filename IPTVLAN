@@ -72,6 +72,7 @@ http://192.168.10.46:35051/rtp/232.84.1.125:10326
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
 http://192.168.10.46:35051/rtp/232.84.1.34:8178
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (HD 9Mbps)
+http://192.168.10.46:35051/rtp/232.84.3.42:11800
 #------------------------HTV/HTVC------------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 6Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.57:11710
