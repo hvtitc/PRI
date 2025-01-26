@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://hqth.me/epg"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:1 tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 (HD 8.5Mbps)
 http://192.168.10.46:35051/rtp/232.84.1.117:10254
@@ -144,17 +144,9 @@ http://192.168.10.46:35051/rtp/232.84.3.15:11962
 #EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng Hợp (HD 6Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.14:11968
 #------------------------Thiết Yếu------------------------#
-#EXTINF:80 tvg-name="Nhân Dân" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 8.5Mbps)
-http://192.168.10.46:35051/rtp/232.84.3.124:10822
-#EXTINF:7 tvg-name="Quốc Hội" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD (HD 8.5Mbps)
-http://192.168.10.46:35051/rtp/232.84.1.234:10290
-#EXTINF:127 tvg-name="QPVN" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 8.5Mbps)
+#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.127:10816
-#EXTINF:133 tvg-name="VNews" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 8.5Mbps)
-http://192.168.10.46:35051/rtp/232.84.3.125:10434
-#------------------------Other------------------------#
-#EXTINF:92 tvg-name="HITV" group-title="Other Channel" tvg-logo="https://i.imgur.com/v08VbZS.png",HCATV1 HiTV
-http://192.168.10.46:35051/rtp/232.84.1.55:8310
+#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:0 tvg-id="yenbai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 6Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.253:11440
