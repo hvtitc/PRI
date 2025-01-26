@@ -148,6 +148,7 @@ http://192.168.10.46:35051/rtp/232.84.3.14:11968
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.127:10816
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
+http://192.168.10.46:35051/rtp/232.84.1.212:9246
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:0 tvg-id="yenbai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 6Mbps)
 http://192.168.10.46:35051/rtp/232.84.3.253:11440
