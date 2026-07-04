@@ -355,19 +355,19 @@ http://192.168.10.24:35051/rtp/232.84.2.124:8358
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/JRVJl0L.png",Russia Today
 http://192.168.10.24:35051/rtp/232.84.2.125:8538
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/yhWvggM.png",Russia Today Deutsch
-http://192.168.10.24:35051/rtp/232.84.3.45:11782
+http://192.168.10.44:35051/rtp/232.84.3.45:11782
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/6bUPlxA.png",Shenzhen
-http://192.168.10.24:35051/rtp/232.84.3.186:11038
+http://192.168.10.44:35051/rtp/232.84.3.186:11038
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TNT_Russia.png",TNT International
-http://192.168.10.24:35051/rtp/232.84.1.30:8154
+http://192.168.10.44:35051/rtp/232.84.1.30:8154
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TPBS3.png",TPBS
-http://192.168.10.24:35051/rtp/232.84.3.136:10720
+http://192.168.10.44:35051/rtp/232.84.3.136:10720
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV1000_Pycckoe_Russia.png",TV1000 Pycckoe
-http://192.168.10.24:35051/rtp/232.84.1.123:10320
+http://192.168.10.44:35051/rtp/232.84.1.123:10320
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV5_Monde_Asie.png",TV5 Monde Asie
-http://192.168.10.24:35051/rtp/232.84.1.45:8250
+http://192.168.10.44:35051/rtp/232.84.1.45:8250
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/APpNWp4.png",WDR
-http://192.168.10.24:35051/rtp/232.84.3.38:11824
+http://192.168.10.44:35051/rtp/232.84.3.38:11824
 #------------------------Mua Sắm------------------------#
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
-http://192.168.10.24:35051/rtp/232.84.2.197:10966
+http://192.168.10.44:35051/rtp/232.84.2.197:10966
